@@ -95,11 +95,10 @@ nav a:hover {
     text-align: right;
     justify-content: right;
 }
-.login-button .bar{
-    display:flex;
-    float: right;
-    justify-content: right;
-    text-align: right;
-}
+.float-right {
+    position: absolute;
+    top: 0;
+    right: 400px;;
+  }
 
 

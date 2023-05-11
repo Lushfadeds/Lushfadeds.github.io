@@ -13,9 +13,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <div className={"navigation"}>
           <h1>Welcome to my snack shop!</h1>
-          <div className="bar">
-          <button className="login-button">Sign Up / Log In</button>
-          </div>
+
+          <button className="login-button float right">Sign Up / Log In</button>
+   
           <nav>
             <Link href={"/"}>Home</Link>
             <Link href={"/snacks"}>Snacks</Link>
