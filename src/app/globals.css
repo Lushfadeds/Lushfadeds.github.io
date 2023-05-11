@@ -96,8 +96,13 @@ nav a:hover {
     text-align: right;
     justify-content:space-between;
     padding:10px 20px;
+    float: right;
 }
-
+.bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 .float-right {
     position: absolute;
     top:25;
