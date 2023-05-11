@@ -99,7 +99,8 @@ nav a:hover {
 }
 
 .float-right {
-   
+    position: absolute;
+
   }
 
 
