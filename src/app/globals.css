@@ -71,19 +71,20 @@ nav a:hover {
 }
 
 .card .footer input {
-    width: 200px;
+    width: 100px;
   text-align: center;
   padding: 5px;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
 .card .footer button {
-    padding: 200px;
+    padding: 5px;
     background-color: #007bff;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    width: 100px; ;
   }
 .login-button{
     display:flex;
