@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <div className={"navigation"}>
           <h1>Welcome to my snack shop!</h1>
+          <button className="login-button">Sign Up / Log In</button>
           <nav>
             <Link href={"/"}>Home</Link>
             <Link href={"/snacks"}>Snacks</Link>
