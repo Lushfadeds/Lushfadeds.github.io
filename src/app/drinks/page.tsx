@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      <h1><Drinks></Drinks>/h1>
+      <h1>Drinks</h1>
     </div>
   );
 }
