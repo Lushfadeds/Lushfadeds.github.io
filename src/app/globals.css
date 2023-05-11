@@ -95,7 +95,7 @@ nav a:hover {
     text-align: right;
     justify-content: right;
 }
-.login-button .navigation{
+.login-button .bar{
     display:flex;
     justify-content: right;
     text-align: right;
