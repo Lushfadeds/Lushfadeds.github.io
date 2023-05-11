@@ -93,7 +93,7 @@ nav a:hover {
     background-color: #007bff;
     border-radius: 5px;
     text-align: right;
-    justify-content: right;
+    justify-content:space-between;
 }
 
 .float-right {
