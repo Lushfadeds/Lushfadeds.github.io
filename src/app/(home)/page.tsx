@@ -9,7 +9,7 @@ export default function Page() {
           </div>
           <div className={"footer"}>
             <input type="number" value={1}></input>
-            <button>Add to Cart</button>
+            <button>Add to Cartasdsadada</button>
           </div>
         </div>
       </div>
