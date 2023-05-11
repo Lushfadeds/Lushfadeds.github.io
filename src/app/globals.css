@@ -89,8 +89,16 @@ nav a:hover {
 .login-button{
     display:flex;
     cursor: pointer;
+    color:#fff;
+    background-color: #007bff;
+    border-radius: 5px;
     text-align: right;
     justify-content: right;
+}
+.login-button .navigation{
+    display:flex;
+    justify-content: right;
+    text-align: right;
 }
 
 
