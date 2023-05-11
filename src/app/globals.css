@@ -35,6 +35,7 @@ nav a:hover {
     display: flex;
     justify-content: center;
     gap: 16px;
+    flex-wrap: wrap;
     flex-direction: row;
 }
 
