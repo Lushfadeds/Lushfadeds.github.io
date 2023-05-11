@@ -14,8 +14,7 @@ export default function Page() {
         </div>
       </div>
     </div>
-    <div className={"container"}>
-        <div className={"card-container"}>
+
           <div className={"card"}>
             <img src={"https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg"} />
             <div className={"body"}>
@@ -26,8 +25,7 @@ export default function Page() {
               <button >Add to Cart</button>
             </div>
           </div>
-        </div>
-      </div></>
+       </>
 
   );
 
