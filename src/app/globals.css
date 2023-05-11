@@ -27,7 +27,7 @@ nav a:hover {
 }
 
 .container {
-    margin: 4vh 4vw;
+    margin: 0;
 
 }
 
@@ -45,7 +45,7 @@ nav a:hover {
     border-radius: 4px;
     overflow: hidden;
     flex-direction: column;
-    margin: 0 -4px;
+
 }
 
 .card img {
