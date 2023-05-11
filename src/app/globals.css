@@ -13,7 +13,7 @@ body {
 .navigation nav {
     display: flex;
     justify-content: center;
-    gap: 48ppx;
+    gap: 48px;
 }
 
 nav a {
