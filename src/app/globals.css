@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .card .footer input {
-    width: 100px;
+    width: 150px;
   text-align: center;
   padding: 5px;
   border: 1px solid #ccc;
@@ -84,7 +84,7 @@ nav a:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    width: 100px; ;
+    width: 150px; ;
   }
 .login-button{
     display:flex;
