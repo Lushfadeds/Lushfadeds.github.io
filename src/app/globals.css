@@ -95,13 +95,13 @@ nav a:hover {
     border-radius: 5px;
     text-align: right;
     justify-content:space-between;
-    padding:30px 50px;
+    padding:10px 20px;
 }
 
 .float-right {
     position: absolute;
     top: 0;
-    right: 40px;;
+    right: 400px;;
     bottom: 50px;
   }
 
