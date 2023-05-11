@@ -6,21 +6,24 @@ body {
     margin: 0;
 }
 
-.navigation-master {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
 .navigation {
-    display: flex;
-    gap: 8px;
+    text-align: center;
 }
 
-.navigation-item {
+.navigation nav {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+nav a {
     color: inherit;
     text-decoration: none;
+    transition: all 250ms;
+}
+
+nav a:hover {
+    scale: 1.1;
 }
 
 .container {
