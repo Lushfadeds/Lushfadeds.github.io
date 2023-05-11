@@ -64,6 +64,7 @@ nav a:hover {
 
 .card .footer input {
     width: 3em;
+    cursor: pointer;
 }
 .login-button{
     display:flex;
