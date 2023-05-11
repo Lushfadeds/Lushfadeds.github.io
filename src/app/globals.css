@@ -28,7 +28,7 @@ nav a:hover {
 
 .container {
     margin: 4vh 4vw;
-
+    flex-wrap: wrap;
 }
 
 .card-container {
@@ -101,7 +101,7 @@ nav a:hover {
 .float-right {
     position: absolute;
     top: 0;
-    right: 400px;;
+    right: 40px;;
     bottom: 50px;
   }
 
