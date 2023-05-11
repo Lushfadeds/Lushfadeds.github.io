@@ -100,8 +100,8 @@ nav a:hover {
 
 .float-right {
     position: absolute;
-    top: 400px;
-    right: ;
+    top:0;
+    right:400;
 
   }
 
