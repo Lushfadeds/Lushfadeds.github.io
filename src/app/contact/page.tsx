@@ -3,8 +3,11 @@ export default function Page() {
     <><div>
       <h1>Contact</h1>
     </div>
-      <div className="contact-section">
-      <img src={"https://www.googlhttps://www.freepik.com/free-vector/instagram-icon_954290.htm#query=instagram%20logo&position=0&from_view=keyword&track=aise.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw2tfDXZVX2-oF6xA4g6m0N4&ust=1683991432971000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC8pouL8P4CFQAAAAAdAAAAABAE"} />
-      </div></>
-  );
+    <div className="contact-section">
+  <a href="https://www.instagram.com">
+    <img src="https://www.freepik.com/free-vector/instagram-icon_954290.htm" alt="Instagram logo" />
+  </a>
+</div>
+</>
+ );
 }
