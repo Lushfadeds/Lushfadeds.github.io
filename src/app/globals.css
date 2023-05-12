@@ -103,13 +103,13 @@ nav a:hover {
   right: 100px;
 }
 .contact-section{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: gray;
-    object-fit: fill;
-    padding: 20px;
-    border-radius: 5px;
+    .contact-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: gray;
+      }
 }
 .contact-section img{
     width: 100px;
