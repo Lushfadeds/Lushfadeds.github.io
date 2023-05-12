@@ -107,7 +107,7 @@ nav a:hover {
     align-items: center;
     justify-content: center;
     background-color: gray;
-    width: 400px;
+    object-fit: fill;
     padding: 20px;
     border-radius: 5px;
 }
