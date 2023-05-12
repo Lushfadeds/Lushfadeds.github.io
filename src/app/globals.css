@@ -101,12 +101,24 @@ nav a:hover {
   position: absolute;
   top: 10px;
   right: 100px;
-
-}.contact-section{
+}
+.contact-section{
   object-fit:fill;
   background-color: gray;
-
+  width: 400px;
 }
+.contact-section img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    border-radius: 5px;
+  }
+
+  .contact-section.body{
+align-content: center;
+justify-content: center;
+  }
+
 
 .bar {
     display: flex;
