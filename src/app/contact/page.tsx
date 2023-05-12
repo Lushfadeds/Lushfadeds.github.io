@@ -5,7 +5,7 @@ export default function Page() {
     </div>
     <div className="contact-section">
     <a href="https://www.instagram.com" target="_blank">
-    <img src="https://www.freepik.com/free-vector/instagram-icon_954290.htm" alt="Instagram logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo" />
   </a>
 </div>
 </>
