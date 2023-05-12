@@ -101,6 +101,11 @@ nav a:hover {
   position: absolute;
   top: 10px;
   right: 100px;
+
+}.contact-section{
+  object-fit:fill;
+  background-color: gray;
+
 }
 
 .bar {
@@ -108,5 +113,11 @@ nav a:hover {
     justify-content: space-between;
     align-items: center;
   }
+
+w
+
+
+
+
 
 
