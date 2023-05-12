@@ -110,10 +110,7 @@ nav a:hover {
  height: 100vh;
  background-color: gray;
  width:100%;
- margin-top: 10px;
- text-align: center;
- font-weight: bold;
-}
+
 
 .contact-section img{
     width: 100px;
@@ -122,7 +119,12 @@ nav a:hover {
 
   }
 
-
+  .contact-section p{
+    margin-top: 10px;
+ text-align: center;
+ font-weight: bold;
+}
+  }
 
 .bar {
     display: flex;
