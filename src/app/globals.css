@@ -109,6 +109,7 @@ nav a:hover {
         align-items: center;
         height: 100vh;
         background-color: gray;
+        width: 100%;
       }
 }
 .contact-section img{
